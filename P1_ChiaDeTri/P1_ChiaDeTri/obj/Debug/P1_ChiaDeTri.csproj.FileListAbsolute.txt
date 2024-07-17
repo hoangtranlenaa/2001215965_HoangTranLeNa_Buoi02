@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2001215965_HoangTranLeNa_Buoi02\P1_ChiaDeTri\P1_ChiaDeTri\bin\Debug\P1_ChiaDeTri.exe.config
+E:\LuuDuLieuSinhVien\2001215965_HoangTranLeNa_Buoi02\P1_ChiaDeTri\P1_ChiaDeTri\bin\Debug\P1_ChiaDeTri.exe
+E:\LuuDuLieuSinhVien\2001215965_HoangTranLeNa_Buoi02\P1_ChiaDeTri\P1_ChiaDeTri\bin\Debug\P1_ChiaDeTri.pdb
+E:\LuuDuLieuSinhVien\2001215965_HoangTranLeNa_Buoi02\P1_ChiaDeTri\P1_ChiaDeTri\obj\Debug\P1_ChiaDeTri.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001215965_HoangTranLeNa_Buoi02\P1_ChiaDeTri\P1_ChiaDeTri\obj\Debug\P1_ChiaDeTri.exe
+E:\LuuDuLieuSinhVien\2001215965_HoangTranLeNa_Buoi02\P1_ChiaDeTri\P1_ChiaDeTri\obj\Debug\P1_ChiaDeTri.pdb
